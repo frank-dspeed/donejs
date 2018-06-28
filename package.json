@@ -41,7 +41,7 @@
   "homepage": "https://github.com/donejs/donejs",
   "devDependencies": {
     "coveralls-send": "0.0.2",
-    "documentjs": "^0.4.3",
+    "documentjs": "^0.5.4",
     "dotdotdot": "^1.7.0",
     "es6-promise": "^4.0.5",
     "guide-automation": "^0.3.0",
